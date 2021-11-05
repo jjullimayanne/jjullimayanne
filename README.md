@@ -1,8 +1,8 @@
 
 ### 	:vulcan_salute: Olá! Sou Julli | Hello, I'm Julli. 
 
-  :technologist: Sou <b>estudante de Engenharia de Software</b> </b> <br>
-  :technologist: I am an <b>Software Engineer Student</b> <b></b> 
+  Sou <b>estudante de Engenharia de Software</b> </b> <br>
+   I am an <b>Software Engineer Student</b> <b></b> 
 
  :computer: Atualmente sou também estudante de Desenvolvimento <b>Front-End</b> na <Laboratória>. <br>
  :computer: Nowadays I am a also <b>Front-End</b> Developer Student at <Laboratória>. 
