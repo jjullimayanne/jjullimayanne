@@ -5,7 +5,16 @@
    I am an <b>Software Engineer Student</b> <b></b> 
 
  :computer: Atualmente sou também estudante de Desenvolvimento <b>Front-End</b> na <Laboratória>. <br>
- :computer: Nowadays I am a also <b>Front-End</b> Developer Student at <Laboratória>. 
+ :computer: Nowadays I am a also <b>Front-End</b> Developer Student at <Laboratória>.  
+ 
+  <div align="right">
+
+
+  
+  <img  height="160em" src="http://24.media.tumblr.com/tumblr_m61kd3XSfN1rp8v27o1_r2_500.gif"/>
+</div>
+  
+  </div>
 
  <div>
   <a href="https://github.com/jjullimayanne">
