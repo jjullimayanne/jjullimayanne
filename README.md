@@ -1,7 +1,7 @@
 
 ### 	:vulcan_salute: Olá! Sou Julli | Hello, I'm Julli. 
 
-  Sou <b>Engenharia de Software no grupo SBF</b> </b> <br>
+  Sou <b>Engenheira de Software no grupo SBF</b> </b> <br>
    I am an <b>Software Engineer at SBF group</b> <b></b> 
  
  
