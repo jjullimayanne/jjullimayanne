@@ -1,7 +1,7 @@
 
 ### 	:vulcan_salute: Hello, I'm Julli. 
 
-   <b>Software Engineer at SBF group</b> <b></b> 
+   <b>Mobile Software Engineer at Remessa Online</b> <b></b> 
  
  
   <div align="right">
